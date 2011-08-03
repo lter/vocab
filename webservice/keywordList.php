@@ -1,0 +1,286 @@
+<?php
+// Generate HTML list containing a variety of searches
+
+//set baseURL to directory for querymetacat.php and LTER_resultset.xsl 
+define(BASE_URL,"http://vocab.lternet.edu/metacatsearch/");
+
+// set the serviceURL to the tematres service web address 
+define(SERVICE_URL,"http://vocab.lternet.edu/vocab/vocab/services.php");
+
+// set the scope for the search using the start of the packageID
+define(PACKAGEID_START,"%");
+//define(PACKAGEID_START,"knb-lter-");
+
+// set the string describing the scope of the search
+define(SCOPE_DESCR_STRING,"LTER");
+
+
+$inPath=$_SERVER['PATH_INFO'];
+//echo $inPath;
+
+$settings=explode("/",$inPath);
+//print_r($settings);
+$relation=$settings[1];
+$format=$settings[2];
+$search=$settings[3];
+$search=str_replace("+"," ",$search);
+
+
+$urlcall=SERVICE_URL . '?task=search&arg='. $search." ";
+if ($xml= simplexml_load_file($urlcall,"SimpleXMLElement",LIBXML_NOCDATA)){
+//print_r($xml);
+// test for any results found for search string
+if($xml->result->count() > 0){
+$numTerms=$xml->result[0]->term->count() ;
+//echo "Num Terms: " . $numTerms ;
+
+if ($numTerms > 0){
+$isTermFound=FALSE;
+foreach ($xml->result->term as $term) {
+// ONLY search for the actual term specified - not things that include it
+//echo("<br>string lengths: ".$search." ". $term->string . strlen($term->string). " " .strlen($search)."");
+  if(strlen($term->string) == strlen($search)){
+      switch ($relation) {
+      case "exact":
+        generateUseFor($term->term_id,$term->string);
+        break;
+    case "narrow":
+        generateNarrow($term->term_id,$term->string);
+        break;
+    case "related":
+        generateRelated($term->term_id,$term->string);
+        break;
+    case "narrowrelated":
+        generateNarrowRelated($term->term_id,$term->string);
+        break;
+    case "all":
+        generateNarrowRelatedNarrow($term->term_id,$term->string);
+        break;
+}
+    $isTermFound=TRUE;
+  }
+}
+if($isTermFound == FALSE){
+    $emptyArray=array();
+    outputItem($search,"",$emptyArray);
+}
+#echo("<hr>Note: searches of large numbers of terms can be slow! Please be patient. </html>");
+} // if numterms > 0
+}else{
+    $emptyArray=array();
+    outputItem($search,"",$emptyArray);
+} // if any result tags found
+} //if result count >0 
+
+function generateUseFor($term_id,$termstr){
+	 $useforTerms=array();
+         $emptyArray=array();
+	 getusefor($term_id,&$useforTerms);
+         outputItem($termstr,$useforTerms);
+}
+
+function generateNarrow($term_id,$termstr){
+	 $useforTerms=array();
+	 $narrowerTerms=array();
+         $emptyArray=array();
+	 getusefor($term_id,&$useforTerms);
+  	 getnarrower($term_id,&$narrowerTerms);
+         $narrowerTerms=array_merge($useforTerms,$narrowerTerms);
+         outputItem($termstr,$narrowerTerms);
+
+
+}
+
+function generateRelated($term_id,$termstr){
+	 $useforTerms=array();
+	 $relatedTerms=array();
+         $emptyArray=array();
+	 getusefor($term_id,&$useforTerms);
+	 getrelated($term_id,&$relatedTerms);
+         $relatedTerms=array_merge($useforTerms,$relatedTerms);
+	 outputItem($termstr,$relatedTerms);
+}
+
+function generateNarrowRelated($term_id,$termstr){
+	 $useforTerms=array();
+	 $narrowerTerms=array();
+	 $relatedTerms=array();
+         $emptyArray=array();
+	 getusefor($term_id,&$useforTerms);
+	 getnarrower($term_id,&$narrowerTerms);
+	 $numNarrower=count($relatedTerms);
+	 getrelated($term_id,&$relatedTerms);
+         $numRelated=count($relatedTerms);
+         $relatedTerms=array_merge($useforTerms,$relatedTerms);
+         $relatedTerms=array_merge($relatedTerms,$narrowerTerms);
+         outputItem($termstr,$relatedTerms);
+}
+function generateNarrowRelatedNarrow($term_id,$termstr){
+	 $useforTerms=array();
+	 $narrowerTerms=array();
+	 $relatedNarrowerTerms=array();
+	 $relatedTerms=array();
+
+	 getusefor($term_id,&$useforTerms);
+  	 getnarrower($term_id,&$narrowerTerms);
+	 getrelatednarrower($term_id,&$relatedNarrowerTerms);
+	 $relatedNarrowerTerms=array_merge($useforTerms,$relatedNarrowerTerms);
+	 $relatedNarrowerTerms=array_merge($relatedNarrowerTerms,$narrowerTerms);
+	 outputItem($termstr,$relatedNarrowerTerms);
+}
+
+function outputItem($termstr,&$list){
+    global $format;	 
+    $format=strtolower($format);
+    if ($format == ''){$format="list";}
+//sort list and eliminate duplicates
+    $list=array_unique($list);
+    natcasesort($list);
+
+    switch ($format){
+    	   case "list":	
+    	   	echo($termstr ."\n");
+                if (count($list) > 0){
+                   foreach ($list as $term){
+       	    		echo($term ."\n") ;
+        	   }
+    		}
+		break;
+    	   case "csv":	
+    	   	echo('"'.$termstr.'"');
+                if (count($list) > 0){
+                   foreach ($list as $term){
+       	    		echo(', "' . $term . '"') ;
+        	   }
+    		}
+		break;
+    	   case "quotedlist":	
+    	   	echo('"'.$termstr.'"'."\n");
+                if (count($list) > 0){
+                   foreach ($list as $term){
+       	    		echo('"' . $term . '"'."\n") ;
+        	   }
+    		}
+		break;
+    	   case "xml":	
+	        echo("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<termList>\n");
+    	   	echo('  <term>'.$termstr.'</term>'."\n");
+                if (count($list) > 0){
+                   foreach ($list as $term){
+       	    		echo('  <term>' . $term . '</term>'."\n") ;
+        	   }
+    		}
+	        echo("</termList>\n");
+		break;
+    }
+}
+
+
+function getnarrower($term_id,&$narrowerTerms)
+{
+$usefornarrowerTerms=array();
+$numTerms=0;
+$urlcall=SERVICE_URL . '?task=fetchDown&arg='.$term_id;
+$xml= simplexml_load_file($urlcall,SimpleXMLElement,LIBXML_NOCDATA);
+//print_r($xml);
+
+//make sure at least one narrower term found by checking for result and resume
+if ($xml->count() > 1){
+$numTerms=$xml->result->term->count() ;
+//echo $numTerms." Terms found";
+if ($numTerms > 0){
+foreach ($xml->result->term as $term) {
+   $narrowerTerms[]=$term->string;
+   $moreNarrower[]=$term->hasMoreDown;
+   $termIds[]=$term->term_id;
+    getusefor($term->term_id,&$usefornarrowerTerms);
+}
+$i=0;
+foreach ($narrowerTerms as $narrowerTerm){
+//   echo $narrowerTerm, $moreNarrower[$i] ;
+   if($moreNarrower[$i] == 1) getNarrower($termIds[$i],$narrowerTerms);
+   $i++;
+}
+    $narrowerTerms=array_merge($narrowerTerms,$usefornarrowerTerms);
+//print_r($narrowerTerms);
+}
+} //end if 
+return $numTerms;
+}
+
+function getusefor($term_id,&$useforTerms)
+{
+$numTerms=0;
+$urlcall=SERVICE_URL . '?task=fetchAlt&arg='.$term_id;
+$xml= simplexml_load_file($urlcall,"SimpleXMLElement",LIBXML_NOCDATA);
+//print_r($xml);
+
+//make sure at least one narrower term found by checking for result and resume
+if ($xml->count() > 1){
+$numTerms=$xml->result->term->count() ;
+//echo $numTerms." Terms found";
+if ($numTerms > 0){
+foreach ($xml->result->term as $term) {
+   $useforTerms[]=$term->string;
+//echo($term->string);
+}
+}
+} //end if 
+return $numTerms;
+}
+
+function getrelated($term_id,&$relatedTerms)
+{
+$useforTerms=array();
+$numTerms=0;
+$urlcall=SERVICE_URL . '?task=fetchRelated&arg='.$term_id;
+$xml= simplexml_load_file($urlcall,"SimpleXMLElement",LIBXML_NOCDATA);
+//print_r($xml);
+
+//make sure at least one related term found by checking for result and resume
+if ($xml->count() > 1){
+$numTerms=$xml->result->term->count() ;
+//echo $numTerms." Terms found";
+if ($numTerms > 0){
+foreach ($xml->result->term as $term) {
+   $relatedTerms[]=$term->string;
+    getusefor($term->term_id,&$useforTerms);
+
+//echo($term->string);
+}
+    $relatedTerms=array_merge($relatedTerms,$useforTerms);
+}
+} //end if 
+return $numTerms;
+}
+
+
+function getrelatednarrower($term_id,&$relatedNarrowerTerms)
+{
+$useforTerms=array();
+$narrowerTerms=array();
+$numTerms=0;
+$urlcall=SERVICE_URL . '?task=fetchRelated&arg='.$term_id;
+$xml= simplexml_load_file($urlcall,"SimpleXMLElement",LIBXML_NOCDATA);
+//print_r($xml);
+
+//make sure at least one related term found by checking for result and resume
+if ($xml->count() > 1){
+$numTerms=$xml->result->term->count() ;
+//echo $numTerms." Terms found";
+if ($numTerms > 0){
+foreach ($xml->result->term as $term) {
+   $relatedNarrowerTerms[]=$term->string;
+    getusefor($term->term_id,&$useforTerms);
+    getnarrower($term->term_id,&$narrowerTerms);
+
+//echo($term->string);
+}
+    $relatedNarrowerTerms=array_merge($relatedNarrowerTerms,$useforTerms,$narrowerTerms);
+}
+} //end if 
+return $numTerms;
+}
+
+
+?>
