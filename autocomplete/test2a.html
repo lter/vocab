@@ -1,0 +1,19 @@
+<head>
+<script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/lib/prototype/prototype.js">
+</script> 
+<script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/lib/scriptaculous/scriptaculous.js">
+</script> 
+<script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/src/AutoComplete.js"></script> 
+</head>
+<body>
+<form action="test" method=post>
+<input type="text" id="my_ac3" name="keyword" size="45" autocomplete="off"/> 
+<input type=submit>
+<script type="text/javascript">
+ new AutoComplete('my_ac3', 'LTERautocomp.php?m=text&s=', { 
+ delay: 0.1, 
+ threshold: 1,
+ resultFormat: AutoComplete.Options.RESULT_FORMAT_TEXT 
+}); 
+</script> 
+</body>

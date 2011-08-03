@@ -1,0 +1,8 @@
+V1.1 July 7, 2011 
+
+- added a descriptive heading to the sample form LTERKeywordForm.html
+- altered LTERAutoComp.php to include words that include the search
+  string, but not at the beginning of the keyword
+
+V1.0 June 29, 2011
+- Original Release

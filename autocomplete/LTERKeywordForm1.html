@@ -1,0 +1,30 @@
+<head>
+<!-- put the following scripts in the header of your web page -->
+<script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/lib/prototype/prototype.js">
+</script> 
+<script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/lib/scriptaculous/scriptaculous.js">
+</script> 
+<script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/src/AutoComplete.js"></script> 
+<!-- End of scripts to be included -->
+
+</head>
+<body>
+<form action="test" method=post>
+
+<!-- put these <input> and <script> tags in your form. The "name" and "size" can be set to whatever  -->
+<!-- you want, but don't change the "id" or "autocomplete" it won't work -->
+<input type="text" id="my_ac3" name="keyword" size="45" autocomplete="off"/> 
+
+<!-- You can customize the response time and number of characters needed to be typed, below -->
+<!-- The accompanying LTERAutoComp.php file needs to be in the same directory as this form -->
+<script type="text/javascript">
+ new AutoComplete('my_ac3', 'LTERAutoComp1.php?m=text&s=', { 
+ delay: 0.1, 
+ threshold: 1,
+ resultFormat: AutoComplete.Options.RESULT_FORMAT_TEXT 
+}); 
+</script> 
+<!-- End of tags to be included -->
+
+<input type=submit>
+</body>
