@@ -30,7 +30,7 @@ if(strlen($myPackageId) == 0) exit("error: no packageid was specified<br>
 ");
 
 
-//print and informative message (optional)
+//print an informative message (optional)
 echo("Fetching table of terms from:".$webServiceCall."<br>");
 
 // The following invokes the web service to populate the form with a 
