@@ -1,0 +1,23 @@
+<html>
+<body>
+<h2>Scan Document for Prospective Keywords</h2>
+
+<form action="getHiveList.php" method="post" enctype="multipart/form-data">
+<input type="hidden" name="thesaurusName" value="lter">
+Upload a metadata file (.txt or .xml)<br><input type="file" name="file"><br> 
+<!--
+OR<br>
+Give the URL for a Document:
+<br><input size="40" name="inURL"><br> 
+<font size=-2>Sample URL: http://www.vcrlter.virginia.edu/data/query/text/eml/BPH8801A.xml</font><br> <OR<br>
+Give the packageID of an EML Document in the LTER Metacat:
+<br><input size="20" name="emlPackageID"><br> 
+<font size=-2>Sample:knb-lter-vcr.49.4</font><br>
+-->
+<br><input type="submit" name="submit" value="Find Keywords"><br> 
+
+</form>
+</body>
+</html>
+
+
