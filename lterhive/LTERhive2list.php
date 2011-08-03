@@ -1,6 +1,7 @@
 <?php
 echo("<h2>Keywords selected for: ".$_REQUEST['inFileName']."</h2><hr>");
 
+echo("<!-- generate list of selected terms as a list -->");
 $numTerms=count($_REQUEST["term"]);
 //echo($numTerms . " terms were selected");
 $terms=$_REQUEST["term"];
@@ -12,6 +13,7 @@ for ($i=0;$i < $numTerms; $i++){
   }
 }
 
+echo("<!-- now do it again as XML -->");
 echo("<hr>As EML keywordSet:<br>
 <form>
 <textarea rows=20 cols=60>

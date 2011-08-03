@@ -1,11 +1,14 @@
 <head>
+<!-- load scripts for autocomplete -->
 <script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/lib/prototype/prototype.js">
 </script> 
 <script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/lib/scriptaculous/scriptaculous.js">
 </script> 
 <script type="text/javascript" src="http://vocab.lternet.edu/autocomplete/src/AutoComplete.js"></script> 
 </head>
+
 <body>
+<!-- process the uploaded file and save it to a temporary file -->
 <?php
 if ((($_FILES["file"]["type"] == "text/xml")
 || ($_FILES["file"]["type"] == "text/plain")
@@ -52,6 +55,7 @@ $urlcall="http://scoria.lternet.edu:8080/lter-hive/schemes/lter/concepts/tags/SK
 
 //echo("/usr/bin/curl -T /var/www". $tmpFileName . " ".$urlcall);
 exec("/usr/bin/curl -T /var/www". $tmpFileName . " ".$urlcall,$curlOutput);
+unlink("/var/www".$tmpFileName);
 $xml_returned="";
 foreach ($curlOutput as $curlLine){
 	$xml_returned=$xml_returned.$curlLine;
