@@ -71,7 +71,7 @@ switch ($thesaurus){
 exec("/usr/bin/curl -T ". $tmpFileName . " ".$urlcall,$curlOutput);
 
 // get rid of the temp file - we don't need it anymore
-//unlink($tmpFileName);
+unlink($tmpFileName);
 
 // read the returned XML lines into a single string
 $xml_returned="";
