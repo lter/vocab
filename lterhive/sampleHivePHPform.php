@@ -21,6 +21,15 @@ LTERhive2list.php action produces a listing -->
 $myPackageId=$_REQUEST['packageid'];
 $webServiceCall='http://vocab.lternet.edu/webservice/findKeywords.php/lter/php/'.$myPackageId ; 
 
+// test to make sure a packageID was provided, otherwise print an
+// error message and quit
+if(strlen($myPackageId) == 0) exit("error: no packageid was specified<br>
+     if this page was accessed directly by a URL, you should add: <br>
+     ?packageid=knb-lter-vcr.49 to the URL <br> where knb-lter-vcr.49 
+     is the ID of the desired package in the LTER Metacat. 
+");
+
+
 //print and informative message (optional)
 echo("Fetching table of terms from:".$webServiceCall."<br>");
 
