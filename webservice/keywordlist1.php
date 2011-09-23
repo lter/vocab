@@ -307,7 +307,7 @@ Where:
  ---- list (list of terms separated by newlines)
  ---- quotedlist (list of terms in double quotes, separated by newlines)
  ---- csv (comma-separated list of quoted values)
- ---- xml (XML file containing a single <termList> consisting of one or more <terms>)
+ ---- xml (XML file containing a single &lt;termList> consisting of one or more &lt;terms>)
 
  -- XXKEYWORDXX is the term to be searched for.
 
