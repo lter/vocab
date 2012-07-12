@@ -1,5 +1,7 @@
 <?php
-$languages=array(0 => 'sv','fi','pl','fr','no','en','it','pt','es','de','zh-tw','zh','ja');
+$languages=array(0 => "ar","cs","zh","zh-cn","zh-tw","da","en","fi","fr","de","hu","it","ja","ko","ms","no","pl","pt","sr","sk","es","sv","ro","vi","iw");
+
+
 
 print("Refreshing preferred terms for: <br><ul>\n");
 foreach ($languages as $lang){
