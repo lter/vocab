@@ -1,11 +1,13 @@
 <?php
 $languages=array(0 => "ar","cs","zh","zh-cn","zh-tw","da","en","fi","fr","de","hu","it","ja","ko","ms","no","pl","pt","sr","sk","es","sv","ro","vi","iw");
 
-
-
+if($_REQUEST['q']<>1){
 print("Refreshing preferred terms for: <br><ul>\n");
+}
 foreach ($languages as $lang){
-	print("<li>".$lang." </li>\n");
+	if($_REQUEST['q']<>1){
+		print("<li>".$lang." </li>\n");
+	}
 	$outfile=fopen("/var/www/ILTER/prefterms/".$lang.".txt","w");
 	$url="http://vocab.lternet.edu/ILTER/preferredterms.php/".$lang;
 	if($DEBUG){print($url."\n");}
