@@ -20,6 +20,7 @@ if ($outlang==""){
 $searchStr=$_REQUEST['search'];
 
 print("<h1>Language:".$inlang."     Search Term: ".$searchStr."</h1><hr>");
+$searchStr=urlEncode($searchStr);
 
 print("<h2>Term and Synonyms - <a href='multisearch.php?lang=".$inlang."&outlang=".$outlang."&search=".$searchStr."&relation=exact'>Search....</a>
 </h2>");
