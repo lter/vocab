@@ -1,0 +1,50 @@
+Docs on Google Docs
+
+Conversation with Duane Costa
+
+1) Task Replace Metacat Hierarchy with Controlled vocabulary group
+ - Issue - only 2 levels displayed
+ - would be good to list number of datasets associated with term
+ - * VOCAB would need to specify terms to be used
+ - From Duane: web page is generated from XML file - relatively simple with browsegroup & terms
+ - LTER SITE list is "special" and VOCAB doesn't need to mess with that....
+
+2) Autocomplete - replace existing list?
+- simple list
+- use preferred term list instead
+- needs to be coupled to search upgrade to allow synonyms
+- SIMPLE search uses autocomplete, but not advanced search page
+- * VOCAB needs to provide list of preferred terms
+
+*3) Searching
+- simple (on first page) vs advanced
+  - **simple: automatically use UseFor and Narrower (possibly narrow+related)
+  - advanced: in subject field use checkboxes to select narrower, or related or both or all
+  - what EML parts are searched already varies between simple and advanced
+- should include synonyms
+- check boxes for narrower (default checked) and related (default not checked)
+- scope of thesauri could also be selectable
+
+*4) Keywording via automation
+- Need to use current vocabularly in HIVE tool (may be hard to do for site-specific)
+-- **easy if uses SKOS - may take some tweaking
+-- would be good to automate update
+-- with web services  - need documentation on how to pass text to scan to 
+=======  Vocab group? ===========
+- develop a PHP or web form that 
+- process EML document or text using HIVE web services to generate list of possible words - with checkboxes
+- return URL to  EML document with additions OR EML stub with Keyword section
+
+5) Keywording via Browse
+- browse through hierarchy and select keywords with checkboxes
+
+Next Steps:
+-Can put task in https://trac.lternet.edu/trac/NIS with use cases as separate tickets
+-start with legacy first (before PASTA component)
+-VOCAB needs to flesh out possible changes - write up draft tickets to
+ https://trac.lternet.edu/trac/NIS/query
+
+* are low hanging fruit or particularly valuable 
+
+
+

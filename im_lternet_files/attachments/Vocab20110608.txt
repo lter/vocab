@@ -1,0 +1,33 @@
+Docs on Google Docs
+
+Conversation with Duane Costa
+
+1) Task Replace Metacat Hierarchy with Controlled vocabulary group
+ - Issue - only 2 levels displayed
+ - would be good to list number of datasets associated with term
+
+2) Autocomplete - replace existing list?
+- simple list
+- needs to be coupled to search upgrade to allow synonyms
+
+*3) Searching
+- should include synonyms
+- check boxes for narrower (default checked) and related (default not checked)
+- scope of thesauri could also be selectable
+
+*4) Keywording via automation
+- Need to use current vocabularly in HIVE tool (may be hard to do for site-specific)
+-- easy if uses SKOS
+- come back with check boxes for words you want to accept
+
+5) Keywording via Browse
+- browse through hierarchy and select keywords with checkboxes
+
+Next Steps:
+-Can put task in https://trac.lternet.edu/trac/NIS with use cases as separate tickets
+-start with legacy first (before PASTA component)
+-VOCAB needs to flesh out possible changes - write up draft tickets
+* are low hanging fruit or particularly valuable 
+
+
+

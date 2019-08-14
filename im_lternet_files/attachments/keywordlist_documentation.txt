@@ -1,0 +1,35 @@
+This web service provides a list of keywords in a thesaurus based on their relationship to a search term. 
+
+BASIC SYNTAX: http://vocab.lternet.edu/webservice/keywordlist.php/XXRELATIONXX/XXFORMATXX/XXKEYWORDXX
+
+Where:
+ -- XXRELATIONXX is:
+ ---- exact (returns the term plus any synonyms or "use for" terms)
+ ---- narrow (returns the term plus its more specific, narrower terms or "children")
+ ---- related (returns the term plus its related terms)
+ ---- narrowrelated (returns the term plus both its narrower and related terms)
+ ---- all (returns the term plus its narrower terms, its related terms and the narrower terms of the related terms)
+
+ -- XXFORMATXX is:
+ ---- list (list of terms separated by newlines)
+ ---- quotedlist (list of terms in double quotes, separated by newlines)
+ ---- csv (comma-separated list of quoted values)
+ ---- xml (XML file containing a single <termList> consisting of one or more <terms>)
+
+ -- XXKEYWORDXX is the term to be searched for.
+
+ADVANCED SYNTAX: 
+http://vocab.lternet.edu/webservice/keywordlist.php/XXRELATIONXX/XXFORMATXX/XXKEYWORDXX?service=XXSERVICEXX
+
+As above, but where XXSERVICEXX is the URL of the Tematres Service that you want to use. 
+For example: http://vocab.lternet.edu/vocab/luq/services.php. 
+
+Samples: 
+http://vocab.lternet.edu/webservice/keywordlist.php/narrow/csv/carbon
+searches for the term "carbon" and its narrower terms and returns them as a comma-separated value format. 
+
+http://vocab.lternet.edu/webservice/keywordlist.php/narrow/csv/carbon?service=http://vocab.lternet.edu/vocab/luq/services.php
+does the same, but uses narrower terms from the "luq" thesaurus.
+
+http://vocab.lternet.edu/webservice/keywordlist.php/related/xml/carbon+dioxide
+searches for the term "carbon dioxide" and its narrower terms and returns them as a comma-separated value format. A URL-encoded space (%20) can also be used to separate words within a multi-word term. 
