@@ -1,0 +1,22 @@
+mapping_set_id: 1a9eaabc-9883-4432-af5e-8aeede24e9a6
+license: https://creativecommons.org/publicdomain/zero/1.0/
+mapping_set_version: 2022-10-25
+mapping_set_description: This mapping set is a manually curated alignment of the LTER Controlled Vocabulary and Environment Ontology (ENVO) and was created using the Simple Standard for Sharing Ontology Mappings (SSSOM; https://mapping-commons.github.io/sssom/home/). The motivation of this mapping is to support semantic search of datasets in the Environmental Data Initiative (EDI) Data Repository. Even though the end-user will not see the mapping, rather only the results of it, a high degree of precision was attempted so as not to preclude the use in other contexts. Note, the ontology mapping technique was a blend of element-level definitions and structure-level similarities, the latter being heavily used for the LTER Controlled Vocabulary for which the vast majority of concepts lacked element-level definitions. It should also be noted that an overly liberal assignment of skos:exactMatch to undefined concepts was used in this mapping set. A more cautious approach might be to assign skos:closeMatch in these situations.
+subject_source: https://vocab.lternet.edu/vocab/vocab/
+subject_source_version: 2018-09-19
+object_source: http://purl.obolibrary.org/obo/envo.owl
+object_source_version: 2021-05-14
+curie_map:
+  LTER: https://vocab.lternet.edu/vocab/vocab/?tema=
+  ENVO: http://purl.obolibrary.org/obo/ENVO_
+  sssom: https://w3id.org/sssom/
+  UBERON: http://purl.obolibrary.org/obo/UBERON_
+  PCO: http://purl.obolibrary.org/obo/PCO_
+  CHEBI: http://purl.obolibrary.org/obo/CHEBI_
+  PATO: http://purl.obolibrary.org/obo/PATO_
+  PO: http://purl.obolibrary.org/obo/PO_
+  FOODON: http://purl.obolibrary.org/obo/FOODON_
+  GO: http://purl.obolibrary.org/obo/GO_
+  NCBITaxon: http://purl.obolibrary.org/obo/NCBITaxon_
+  OBI: http://purl.obolibrary.org/obo/OBI_
+  BFO: http://purl.obolibrary.org/obo/BFO_

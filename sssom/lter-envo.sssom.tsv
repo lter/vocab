@@ -1,0 +1,898 @@
+subject_id	subject_label	predicate_id	object_id	object_label	confidence	comment	mapping_justification	mapping_date	author_id
+LTER:182	estuary	skos:exactMatch	ENVO:00000045	estuary	1		LTER "estuaries" has a "use for" relationship with LTER "estuary".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:482	salt marshes	skos:exactMatch	ENVO:00000054	saline marsh	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:966	minirhizotrons	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:114	community	skos:exactMatch	PCO:0000029	multi-species collection of organisms	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-17	https://orcid.org/0000-0003-2261-9931
+LTER:305	litter fall	skos:exactMatch	ENVO:01000628	plant litter	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:235	ground water	skos:exactMatch	ENVO:01001004	groundwater	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:352	morphology	skos:exactMatch	UBERON:0034768	morphological feature	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:591	total organic carbon	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:503	shrubs	skos:relatedMatch	ENVO:01000336	shrub layer	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:450	productivity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:276	isotopes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:273	Fe	skos:exactMatch	CHEBI:18248	iron atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:911	nitrogen flux	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:445	predators	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:427	plant ecology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:455	rain	skos:exactMatch	ENVO:01001564	rain	1		The subject definition matches the object definition exactly.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:948	debris flows	skos:exactMatch	ENVO:01000698	debris flow	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:371	NO2	skos:exactMatch	CHEBI:16301	nitrite	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:579	temperature	skos:exactMatch	PATO:0000146	temperature	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:477	roots	skos:exactMatch	PO:0009005	root	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:57	basidiomycetes	skos:exactMatch	FOODON:03412035	basidiomycetes	0.5	Uncertainty lies in definition matching.	The subject label matches the object label exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:660	geological processes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:1004	plant height	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:901	budburst	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:36	annual net primary production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:630	wetland	skos:exactMatch	ENVO:01001209	wetland ecosystem	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:222	gastropods	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:800	physiological processes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:803	SWE	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:84	canopy gaps	skos:relatedMatch	ENVO:01001239	forest canopy	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:29	amino acids	skos:exactMatch	CHEBI:33709	amino acids	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:393	organic matter	skos:exactMatch	ENVO:01000155	organic material	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:526	soil nutrients	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:343	mites	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:656	biological processes	skos:exactMatch	GO:0008150	biological_process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:615	viruses	skos:exactMatch	NCBITaxon:10239	Viruses	1		The subject and object are undefined but the labels match and the context within the vocabulary trees makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:452	protozoa	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:181	erosion	skos:exactMatch	ENVO:01001346	erosion	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:443	precipitation	skos:broadMatch	ENVO:01000875	precipitation process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:571	surveys	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:535	soil	skos:exactMatch	ENVO:00001998	soil	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:81	Ca	skos:exactMatch	CHEBI:22984	calcium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:320	mammals	skos:exactMatch	NCBITaxon:40674	Mammalia	1		The subject and object are undefined but the context within the vocabulary trees makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:987	soil phosphorus	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:344	modeling	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:319	magnesium	skos:exactMatch	CHEBI:25107	magnesium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:79	burning	skos:broadMatch	ENVO:01000839	combustion process	1		The subject definition suggests a narrower scope than that of the object	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:107	clearcuts	skos:broadMatch	ENVO:02500005	land degradation	0.75		Clearcutting has both land degradation and land restoration components, with support for the latter seeming much weaker (https://en.wikipedia.org/wiki/Clearcutting).	2022-09-05	https://orcid.org/0000-0003-2261-9931
+LTER:193	fine roots	skos:broadMatch	PO:0009005	root	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:353	mortality	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:424	plant communities	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:899	boundaries	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:372	N	skos:exactMatch	CHEBI:51143	nitrogen molecular entity	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:564	subsidence	skos:exactMatch	ENVO:01000694	geological subsidence	1		The subject definition matches the object definition exactly.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:386	ocean currents	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:58	basins	skos:exactMatch	ENVO:03000015	geographic basin	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:513	snow	skos:exactMatch	ENVO:01000406	snow	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:807	aerial imagery	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:596	trapping	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:521	soil chemistry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:571	survey	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:306	liverworts	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:248	history	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:325	marine	skos:exactMatch	ENVO:01001788	marine ecosystem	1		LTER "marine" has no definition but the context within the vocabulary tree makes it clear that alignment with ENVO "marine ecosystem" is exact.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:516	snow temperature	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:204	fluorine	skos:exactMatch	CHEBI:36892	elemental fluorine	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:252	humic soils	skos:broadMatch	ENVO:00001998	soil	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:925	warming	skos:exactMatch	ENVO:01001612	material warming process	0.9		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:362	nematodes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:5	aboveground production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:224	GIS	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:955	beach	skos:closeMatch	ENVO:00000091	beach	1		LTER "beaches" has a "use for" relationship with LTER "beach".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:537	soluble reactive phosphorus	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:374	nitrogen content	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:512	snails	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:288	leaf area	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:914	cones	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:689	translocation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:39	ants	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:700	oceanography	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:316	macroalgae	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:6	abundance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:705	spatial methods	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:473	riparian	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:21	air quality	skos:relatedMatch	ENVO:02500037	air pollution	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:549	specific leaf area	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:42	aquatic invertebrates	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:76	buildings	skos:exactMatch	ENVO:00000073	buildings	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:798	terrestrial ecosystems	skos:exactMatch	ENVO:01001790	terrestrial ecosystems	1		LTER "terrestrial ecosystem" and ENVO "terrestrial ecosystem" are missing definitions but the context within each resource tree makes it clear that alignment is exact.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:272	ions	skos:exactMatch	CHEBI:24870	ion	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:213	forest floor	skos:exactMatch	ENVO:01001582	forest floor	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:477	root	skos:exactMatch	PO:0009005	root	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:48	atmosphere	skos:exactMatch	ENVO:01000267	atmosphere	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:379	nitrogen-15	skos:exactMatch	CHEBI:36934	nitrogen-15 atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:324	maps	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:913	concentration	skos:exactMatch	PATO:0000033	concentration of	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:225	geomorphology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:977	PYR	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:262	ice	skos:exactMatch	ENVO:01000277	water ice	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:412	phaeopigments	skos:relatedMatch	CHEBI:28966	chlorophyll	1		The subject is a derivative of the object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:534	soil water content	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:190	ferns	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:231	grasshopper	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:922	inorganic nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:472	rhizosphere	skos:exactMatch	ENVO:00005801	rhizosphere	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:328	mass balance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:694	substrates	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:465	reproduction	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:129	core	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:507	simulation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:441	porosity	skos:exactMatch	PATO:0000973	porosity	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:897	albedo	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:293	leaf	skos:exactMatch	PO:0025034	leaf	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:479	runoff	skos:broadMatch	ENVO:01000982	water flow process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:567	sulfate	skos:exactMatch	CHEBI:35175	sulfate salt	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:70	bogs	skos:broadMatch	ENVO:00000044	peatland	1	Assuming the definition at: https://en.wikipedia.org/wiki/Bog	The subject lacks definition to align with one or more bog types in ENVO.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:883	NEE	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:206	foliage	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:303	litter decomposition	skos:broadMatch	ENVO:06105014	biodegradation	1		An exact match for the subject cannot be found. However, the subject has a broader term that does have a match.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:49	atmospheric deposition	skos:broadMatch	ENVO:03000054	depositional process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:638	woody debris	skos:broadMatch	ENVO:00002040	wood	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:15	advection	skos:exactMatch	ENVO:01001334	advective transport process	1		The subject definition matches the object definition exactly. Note, the subject definition indicates that its placement within the vocabulary is incorrect.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:546	species richness	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:285	larvae	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:569	sulfur	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:636	winter	skos:exactMatch	ENVO:03000098	cold season	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:562	streams	skos:closeMatch	ENVO:00000023	stream	1		LTER "streams" has the broader term "ecosystems" and therefore within the context of an ecosystem (comprised of living and non-living entities) whereas ENVO "stream" is a "fiat object" refering to only abiotic entities and is therefor not an exact match to a stream ecosystem.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:127	coral reef	skos:closeMatch	ENVO:00000150	coral reef	1		LTER "coral reefs" has a "use for" relationship with LTER "coral reef".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:22	air temperature	skos:exactMatch	ENVO:09200001	temperature of air	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:543	species diversity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:370	nitrification	skos:broadMatch	ENVO:01001330	nitrogen cycling	1		The subject does not have an exact match but does have a broad match based on the subject definition and context in the vocabulary tree.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:923	dissolved inorganic nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:283	landscape	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:945	mass movement	skos:exactMatch	ENVO:03000010	material transport process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:84	canopy gap	skos:relatedMatch	ENVO:01001239	forest canopy	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:423	plant biomass	skos:broadMatch	ENVO:01000155	organic material	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:326	marsh	skos:exactMatch	ENVO:00000035	marsh	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:261	hyporheic zone	skos:relatedMatch	ENVO:00000383	stream bed	1		The subject occurs in close spatial proximity to the object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:297	lichens	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:290	leaf decomposition	skos:broadMatch	ENVO:06105014	biodegradation	1		An exact match for the subject cannot be found. However, the subject has a broader term that does have a match.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:517	snowfences	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:270	inventories	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:573	survivorship	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:618	water balance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:257	hydrogen ions	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:1	trees	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:368	NO3	skos:exactMatch	CHEBI:17632	nitrate	1		The subject and object are undefined but the context within the vocabulary trees make it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:178	emissions	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:471	revegetation	skos:exactMatch	ENVO:02500032	planned revegetation	0.75	Uncertainty lies in whether this is an active ecosystem management process or a naturally occurring process	The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:17	agriculture	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:1	tree	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:395	organisms	skos:exactMatch	OBI:0100026	organism	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:970	eddy covariance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:928	resource management	skos:broadMatch	ENVO:01001170	active ecosystem management process	1		The subject constrains the definition to maintenance or improvement, for which an equivalent object cannot be found in ENVO.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:379	15N	skos:exactMatch	CHEBI:36934	nitrogen-15 atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:135	dataloggers	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:650	inorganic matter	skos:closeMatch	CHEBI:24835	inorganic molecular entity	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:301	limnology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:478	rotifers	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:87	carbon assimilation	skos:broadMatch	ENVO:02500010	carbon cycling	1	The subject is composed of two concepts, primary production and chemosynthesis. Primary production is in ENVO but chemosynthesis is not.	An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:4	aboveground biomass	skos:broadMatch	ENVO:01000155	organic material	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:189	fauna	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:563	strontium	skos:exactMatch	CHEBI:33324	strontium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:70	bog	skos:exactMatch	ENVO:00000044	peatland	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:918	dbh	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:640	zinc	skos:exactMatch	CHEBI:27363	zinc atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:643	substances	skos:exactMatch	ENVO:00010483	environmental material	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:492	sedimentation	skos:broadMatch	ENVO:03000009	material accumulation process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:495	seed dispersal	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:50	barometric pressure	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:629	wet deposition	skos:broadMatch	ENVO:03000054	depositional process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:1003	seagrass	skos:relatedMatch	ENVO:01000059	sea grass bed	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:698	events	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:282	landsat	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:196	fish	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:442	K	skos:exactMatch	CHEBI:26216	potassium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:490	secchi	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:160	dissolved organic carbon	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:926	fen	skos:exactMatch	ENVO:00000232	fen	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:946	landslides	skos:exactMatch	ENVO:00000520	landslide	0.75	Uncertainty lies in whether the subject is a process for a feature	The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:390	organic carbon	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:102	chlorophyll	skos:exactMatch	CHEBI:28966	chlorophyll	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:292	leaf nutrients	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:510	slug	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:926	fens	skos:exactMatch	ENVO:00000232	fen	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:319	Mg	skos:exactMatch	CHEBI:25107	magnesium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:906	burns	skos:relatedMatch	ENVO:01000786	fire	1		The subject is the result of the object and therefore a generally related match.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:805	disturbances	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:550	spores	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:685	community respiration	skos:closeMatch	ENVO:02500008	ecosystem-wide respiration	0.75		Commonly, the subject forms a close synonym with the object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:417	photosynthesis	skos:exactMatch	GO:0015979	photosynthesis	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:145	depth	skos:exactMatch	PATO:0001595	depth	1		2022-09-10	https://orcid.org/0000-0003-2261-9931	2018-09-19
+LTER:541	species	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:586	tide	skos:closeMatch	ENVO:01001342	tidal flow process	0.75	Uncertainty lies in whether this is a process or an entity	Commonly, the subject forms a close synonym with the object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:131	crayfishes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:119	community structure	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-17	https://orcid.org/0000-0003-2261-9931
+LTER:448	primary productivity	skos:relatedMatch	GO:0015979	photosynthesis	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:606	turbidity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:545	species list	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:714	soil properties	skos:relatedMatch	ENVO:00001998	soil	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:682	demography	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:52	bacterial abundance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:461	regeneration	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:256	hydraulic conductance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:957	genomics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:548	specific conductivity	skos:broadMatch	PATO:0001585	conductivity	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:440	porewater	skos:relatedMatch	ENVO:01001004	groundwater	1		The subject is the result of the object and therefore a generally related match.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:801	field methods	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:330	meadows	skos:exactMatch	ENVO:00000108	meadow ecosystem	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:706	sediment elevation table	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:505	silicon	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:570	sulfur hexafluoride	skos:exactMatch	CHEBI:30496	sulfur hexafluoride	0.5	Labels match but object definition is missing.	The subject label matches the object label exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:144	deposition	skos:exactMatch	ENVO:03000054	depositional process	1		The subject definition matches the object definition exactly. Note the subject definition is more general than its location in the vocabulary tree.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:933	hydrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:61	belowground biomass	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:605	tundra	skos:exactMatch	ENVO:01001370	tundra ecosystem	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:197	floodplain	skos:closeMatch	ENVO:00000255	flood plain	1		The subject is a narrower term of ecosystems, whereas the object is a "fiat object" refering to only abiotic entities and is therefore is not an exact match.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:716	ecosystem properties	skos:relatedMatch	ENVO:01001110	ecosystem	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:515	snow depth	skos:relatedMatch	ENVO:01000406	snow	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:442	potassium	skos:exactMatch	CHEBI:26216	potassium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:509	size distribution	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:158	DIC	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:99	chemistry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:382	nutrient cycles	skos:broadMatch	ENVO:02500030	biogeochemical process	1		The subject does not have an exact match but does have a broad match based on the subject definition and context in the vocabulary tree.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:107	clearcut	skos:broadMatch	ENVO:02500005	land degradation	0.75		Clearcutting has both land degradation and land restoration components, with support for the latter seeming much weaker (https://en.wikipedia.org/wiki/Clearcutting).	2022-09-05	https://orcid.org/0000-0003-2261-9931
+LTER:161	dissolved oxygen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:162	distance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:653	geography	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:336	microbe	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:701	salt water	skos:exactMatch	ENVO:00002149	sea water	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:392	organic layer	skos:exactMatch	ENVO:03600018	organic horizon	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:630	wetlands	skos:exactMatch	ENVO:01001209	wetland ecosystem	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:83	canopy cover	skos:relatedMatch	ENVO:01001239	forest canopy	1		The subject is a measurement of the object	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:195	fires	skos:exactMatch	ENVO:01000786	fire	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:436	pollution	skos:exactMatch	ENVO:02500036	environmental pollution	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:944	sea level	skos:exactMatch	ENVO:01001377	sea surface height	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:487	scattering	skos:broadMatch	ENVO:03000010	material transport process	1		Based on the subject vocabulary tree, the subject maps to the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:380	nitrous oxide	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:152	digital elevation model	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:32	amphibian	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:917	plant properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:457	recovery	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:990	species abundance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:595	transpiration	skos:exactMatch	ENVO:02500035	transpiration	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:966	minirhizotron	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:599	tree rings	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:304	litterbags	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:271	invertebrate	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:568	sulfide	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:329	maximum temperature	skos:broadMatch	PATO:0000146	temperature	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:357	mutation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:373	nitrogen compounds	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:806	satellite imagery	skos:relatedMatch	ENVO:01001492	satellite imaging	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:138	defoliation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:363	NPP	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:148	detritus	skos:exactMatch	ENVO:01001103	detritus	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:263	imagery	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:484	sand	skos:exactMatch	ENVO:01000017	sand	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:968	morphometrics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:894	polychaetes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:531	soil texture	skos:relatedMatch	ENVO:00001998	soil	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:269	invasive species	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:85	carbohydrates	skos:exactMatch	CHEBI:16646	carbohydrate	0.75		The object is undefined but the context within the vocabulary trees make it clear that the alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:173	ecosystems	skos:exactMatch	ENVO:01001110	ecosystem	1		The subject and object labels match exactly. The object definition is in strong alignment with the implied definition of the subject, which inherits from the LTER Network focus of study (i.e. ecosystems).	2022-09-05	https://orcid.org/0000-0003-2261-9931
+LTER:533	soil water	skos:exactMatch	ENVO:01001004	groundwater	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:594	transects	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:372	nitrogen	skos:exactMatch	CHEBI:51143	nitrogen molecular entity	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:268	interception	skos:broadMatch	ENVO:01000703	hydrological precipitation process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:439	population	skos:exactMatch	PCO:0000001	population of organisms	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:657	physical processes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:411	phaeophytin	skos:relatedMatch	GO:0015979	photosynthesis	1		That subject is a sub component of the object	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:210	forest disturbance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:86	carbon	skos:exactMatch	CHEBI:27594	carbon atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:345	models	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:253	humidity	skos:exactMatch	PATO:0015009	humidity	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:989	soil samples	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:135	datalogger	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:71	boron	skos:exactMatch	CHEBI:27560	boron atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:733	CTD	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:886	longitude	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:599	tree ring	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:258	hydrography	skos:relatedMatch	ENVO:00000012	hydrographic feature	1		The subject is the study of the object and therefore a related match.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:559	stream ecology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:958	kelp	skos:relatedMatch	ENVO:01000058	kelp forest	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:246	hillslope	skos:exactMatch	ENVO:01000333	hillside	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:455	rainfall	skos:exactMatch	ENVO:01001564	rain	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:350	montane	skos:exactMatch	ENVO:01001836	montane biome	1		LTER "montane" is a narrower term of LTER "ecosystems" and LTER "montaine biome" is a sub-class of ecosystem.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:664	scientific activities	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:938	hammocks	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:130	crabs	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:186	evolution	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:388	old growth forests	skos:exactMatch	ENVO:01000768	primary forest	1	https://en.wikipedia.org/wiki/Old-growth_forest	The subject label is synonymous with the object label. See comment.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:308	locations	skos:exactMatch	PATO:0000140	position	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:281	land use history	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:277	lake level	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:122	conductivity	skos:exactMatch	PATO:0001585	conductivity	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:31	ammonium	skos:exactMatch	CHEBI:28938	ammonium	1		The object is undefined but the context within the vocabulary tree makes it clear that the alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:882	benthic	skos:relatedMatch	ENVO:01000024	marine benthic biome	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:65	biogeochemistry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:517	snowfence	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:266	inorganic nutrients	skos:broadMatch	CHEBI:33284	nutrient	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:414	pheromones	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:992	stand density	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:173	ecosystem	skos:exactMatch	ENVO:01001110	ecosystem	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:617	water	skos:exactMatch	CHEBI:15377	water	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:706	SET	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:169	dry deposition	skos:broadMatch	ENVO:03000054	depositional process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:163	distribution	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:235	groundwater	skos:exactMatch	ENVO:01001004	groundwater	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:360	natural selection	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:539	spatial variability	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:34	anions	skos:exactMatch	CHEBI:22563	anion	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:400	paleolimnology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:529	soil solution chemistry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:209	forbs	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:429	plant phenology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:929	fire management	skos:broadMatch	ENVO:01001170	active ecosystem management process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:894	polychaete	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:367	nickel	skos:exactMatch	CHEBI:28112	nickel atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:109	climate	skos:exactMatch	ENVO:01001082	climate	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:446	pressure	skos:exactMatch	PATO:0001025	pressure	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:188	extinction	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:694	substrate	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:971	nitrogen limitation	skos:relatedMatch	ENVO:01001330	nitrogen cycling	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:232	grassland	skos:exactMatch	ENVO:01001206	grassland ecosystem	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:953	LiDAR	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:459	redox	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:980	recapture	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:19	air pollution	skos:exactMatch	ENVO:02500037	air pollution	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:369	nitric acid	skos:exactMatch	CHEBI:48107	nitric acid	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:172	ecology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:519	soil bulk density	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:988	soil ph	skos:exactMatch	ENVO:09200010	acidity of soil	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:142	denitrification	skos:broadMatch	ENVO:01001330	nitrogen cycling	1		The subject does not have an exact match but does have a broad match based on the subject definition and context in the vocabulary tree.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:342	minimum temperature	skos:broadMatch	PATO:0000146	temperature	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:150	dew point	skos:exactMatch	ENVO:01001859	dew point	1		Both the label and definition of the subject matches exactly with the object.	2022-09-05	https://orcid.org/0000-0003-2261-9931
+LTER:101	chlorine	skos:exactMatch	CHEBI:23116	chlorine atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:52	bacteria abundance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:892	particulate organic carbon	skos:exactMatch	ENVO:04000013	particulate organic carbon	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:964	microbial nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:238	habitats	skos:exactMatch	ENVO:01000739	habitat	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:613	vegetation dynamics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:418	photosynthetically active radiation	skos:exactMatch	ENVO:01001864	photosynthetically active radiation	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:592	total phosphorus	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:406	percent organic carbon	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:60	beetles	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:265	infiltration	skos:relatedMatch	PATO:0002103	infiltrative	1		A broad match for the subject cannot be found. However, an related property of the subject was found.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:78	bulk deposition	skos:broadMatch	ENVO:03000054	depositional process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:116	community dynamics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:221	gas	skos:exactMatch	ENVO:01000797	gaseous environmental material	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:95	cellulose	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:218	fungus	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:267	insects	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:45	arthropods	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:808	analytical tools	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:105	chronosequences	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:239	harvesting	skos:broadMatch	ENVO:01001247	agronomic process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:551	stable isotopes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:161	DO	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:217	frost	skos:exactMatch	ENVO:01001850	frost	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:439	populations	skos:exactMatch	PCO:0000001	population of organisms	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:986	seed production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:991	stand structure	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-17	https://orcid.org/0000-0003-2261-9931
+LTER:296	leucine	skos:exactMatch	CHEBI:25017	leucine	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:891	particulates	skos:exactMatch	ENVO:01000060	particulate matter	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:96	census	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:185	evapotranspiration	skos:exactMatch	ENVO:02500033	evapotranspiration	1		The subject definition matches the object definition exactly.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:686	succession	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:322	mangroves	skos:exactMatch	ENVO:01000181	mangrove biome	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:394	organic nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:237	habitat selection	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:410	ph	skos:relatedMatch	PATO:0001429	acidic	1		The subject is a measurement of the object	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:127	coral reefs	skos:closeMatch	ENVO:00000150	coral reef	1		LTER "coral reefs" has the broader term "aquatic ecosystems" and therefore within the context of an ecosystem (comprised of living and non-living entities) whereas ENVO "coral reef" is a "fiat object" refering to only abiotic entities and is therefor not an exact match to a coral reef ecosystem.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:480	salamanders	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:554	standing crop	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:896	soil nitrogen	skos:closeMatch	ENVO:09000014	amount of nitrogen atom in soil	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is close.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:274	irradiance	skos:closeMatch	ENVO:01001862	Solar radiation	0.75		Commonly, the subject forms a close synonym with the object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:632	wildfires	skos:exactMatch	ENVO:01000787	wildfire	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:165	disturbance patterns	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:159	dissolved nutrients	skos:relatedMatch	CHEBI:33284	nutrient	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:934	pleistocene	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:790	actinorhizal	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:365	net radiation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:474	river	skos:exactMatch	ENVO:01000253	freshwater river biome	1		LTER "rivers" has a "use for" relationship with LTER "river".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:692	atmospheric properties	skos:relatedMatch	ENVO:01000267	atmosphere	1		The subject is a component of the object	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:151	diatoms	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:307	lizards	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:620	water column	skos:exactMatch	ENVO:06105011	water column	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:111	climatology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:634	wind direction	skos:exactMatch	ENVO:01001361	atmospheric wind direction	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:963	log decomposition	skos:broadMatch	ENVO:06105014	biodegradation	1		An exact match for the subject cannot be found. However, the subject has a broader term that does have a match.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:585	throughfall	skos:broadMatch	ENVO:01000703	hydrological precipitation process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:41	aquatic	skos:exactMatch	ENVO:01001787	aquatic ecosystem	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:973	plant functional type	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:91	CO	skos:exactMatch	CHEBI:17245	carbon monoxide	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:64	biodiversity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:399	paleoecology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:416	phosphorus	skos:exactMatch	CHEBI:28659	phosphorus atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:959	wave height	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:63	bicarbonate	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:998	water solubility	skos:broadMatch	PATO:0001536	solubility	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:418	PAR	skos:exactMatch	ENVO:01001864	photosynthetically active radiation	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:548	specific conductance	skos:broadMatch	PATO:0001585	conductivity	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:128	coral	skos:relatedMatch	ENVO:00000150	coral reef	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:960	reefs	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:254	hurricanes	skos:broadMatch	ENVO:01001297	cyclone	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:475	roads	skos:exactMatch	ENVO:00000064	road	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:81	calcium	skos:exactMatch	CHEBI:22984	calcium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:545	species lists	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:205	fluxes	skos:exactMatch	PATO:0001030	flux	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:806	satellite data	skos:relatedMatch	ENVO:01001492	satellite imaging	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:460	reflectance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-25	https://orcid.org/0000-0003-2261-9931
+LTER:544	species interactions	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:462	relative abundance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:160	DOC	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:510	slugs	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:270	inventory	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:152	DEM	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:397	oxygen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:167	drainage	skos:relatedMatch	ENVO:01000982	water flow process	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:942	epifauna	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:90	carbon flux	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:689	retranslocation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:246	hillslopes	skos:exactMatch	ENVO:01000333	hillside	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:661	hydrologic processes	skos:exactMatch	ENVO:02500031	hydrological process	1		The subject definition matches the object definition exactly.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:518	sodium	skos:exactMatch	CHEBI:26708	sodium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:790	actinorhizal plants	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:879	land surface properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:356	mud	skos:exactMatch	ENVO:01000001	mud	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:313	long term monitoring	skos:broadMatch	ENVO:02500041	environmental monitoring	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:355	mowing	skos:broadMatch	ENVO:01001247	agronomic process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:80	cadmium	skos:exactMatch	CHEBI:22977	cadmium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:407	periphyton	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:633	wind	skos:exactMatch	ENVO:01000793	atmospheric wind	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:212	forest ecosystems	skos:exactMatch	ENVO:01001243	forest ecosystem	1		The subject definition and tree context matches the object definition and classification exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:241	heat flux	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:474	rivers	skos:exactMatch	ENVO:01000253	freshwater river biome	1		LTER "rivers" has the broader term LTER "aquatic ecosystems" and therefore references a river ecosystem. ENVO "freshwater river biome" is a subclass of ENVO "aquatic ecosystem". Therefore the two terms match exactly.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:433	plant	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:72	boreal forests	skos:closeMatch	ENVO:01000250	subpolar coniferous forest biome	1	See https://en.wikipedia.org/wiki/Taiga and https://en.wikipedia.org/wiki/Boreal_forest_of_Canada	The subject does not explicitly define the taxonomic forest type in this ecosystem. Based on related resources (see comment) boreal forests are synonomous with subpolar coniferous forest biomes/ecosystems.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:171	dunes	skos:closeMatch	ENVO:00000170	dune	1		The subject is a narrower term of ecosystems, whereas the object is a "fiat object" refering to only abiotic entities and is therefore is not an exact match.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:401	parasitism	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:69	birds	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:511	small mammals	skos:broadMatch	NCBITaxon:40674	Mammalia	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:149	deuterium	skos:exactMatch	CHEBI:29237	deuterium atom	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:211	forest ecology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:975	pond	skos:closeMatch	ENVO:00000033	pond	1		LTER "ponds" has a "use for" relationship with LTER "pond".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:385	ocean_biogeochemistry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:194	fire severity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:641	zooplankton	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:23	algae	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:281	landuse history	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:535	soils	skos:exactMatch	ENVO:00001998	soil	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:228	global positioning systems	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:318	macroinvertebrates	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:626	watersheds	skos:exactMatch	ENVO:00000292	watershed	0.9		The concept of a watershed ecosystem does not exist based on a few web searches. I'm inferring this to be a hydrologic concept, which is a fiat object with no biological entities.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:512	snail	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:498	seedling	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:88	carbon dynamics	skos:exactMatch	ENVO:02500010	carbon cycling	0.75		The subject context calls into question the location of this term in LTER. Why is this term not listed under biogeochemical cycling?	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:377	nitrogen fixation	skos:broadMatch	ENVO:01001330	nitrogen cycling	1		The subject does not have an exact match but does have a broad match based on the subject definition and context in the vocabulary tree.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:525	soil moisture	skos:relatedMatch	ENVO:01001004	groundwater	1		The subject is the result of the object and therefore a generally related match.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:50	air pressure	skos:relatedMatch	ENVO:01001299	atmospheric zone	1		The subject is an attribute of the object	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:203	fluoride	skos:exactMatch	CHEBI:17051	fluoride	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:166	diversity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:798	terrestrial	skos:exactMatch	ENVO:01001790	terrestrial ecosystems	1		LTER "terrestrial ecosystem" has a "use for" relationship with LTER "terrestrial".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:414	pheromone	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:276	isotope	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:420	physiology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:575	symbiosis	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:955	beaches	skos:closeMatch	ENVO:00000091	beach	1		LTER "beaches" has the broader term "terrestrial ecosystem" and therefore within the context of an ecosystem (comprised of living and non-living entities) whereas ENVO "beach" is a "fiat object" refering to only abiotic entities and is therefore not an exact match to a beach ecosystem.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:271	invertebrates	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:562	creek	skos:closeMatch	ENVO:00000023	stream	1		LTER "streams" has a "use for" relationship with LTER "creek".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:136	decay rates	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:138	defoliate	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:238	habitat	skos:exactMatch	ENVO:01000739	habitat	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:562	stream	skos:closeMatch	ENVO:00000023	stream	1		LTER "streams" has a "use for" relationship with LTER "stream".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:430	plant physiology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:92	carbon to nitrogen ratio	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:555	stems	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:131	crayfish	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:56	basal area	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:267	insect	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:134	crustaceans	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:25	allometry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:380	N20	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:602	trophic dynamics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:112	coarse woody debris	skos:broadMatch	ENVO:00002040	wood	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:231	grasshoppers	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:129	cores	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:279	land cover	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:66	biogeography	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:199	flowering	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:311	long term	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:182	estuaries	skos:exactMatch	ENVO:00000045	estuary	1		LTER "estuaries" has no definition but the context within the vocabulary tree makes it clear that alignment with ENVO "estuary" is exact.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:82	canopy	skos:exactMatch	ENVO:01001239	forest canopy	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:943	infauna	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:542	species composition	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:321	manganese	skos:exactMatch	CHEBI:18291	manganese atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:384	nutrient	skos:broadMatch	CHEBI:33284	nutrient	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:574	suspended solids	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:153	dimensions	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:98	charcoal	skos:exactMatch	ENVO:01000560	charcoal	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:92	carbon:nitrogen ratio	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:652	geology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:712	disturbance properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:223	genetics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:275	irrigation	skos:broadMatch	ENVO:01001247	agronomic process	0.5	ENVO:01000982 is a more suitable match?	The subject definition suggests a broader scope than that of the object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:247	historical value	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:585	throughfall precipitation	skos:broadMatch	ENVO:01000703	hydrological precipitation process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:659	atmospheric processes	skos:exactMatch	ENVO:02500003	atmospheric process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:133	crops	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:494	seed banks	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:68	biomass	skos:exactMatch	ENVO:01000155	organic material	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:39	ant	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:733	conductivity temperature depth	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:8	accumulation	skos:exactMatch	PATO:0002269	accumulation	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:177	elevation	skos:exactMatch	ENVO:00000176	elevation	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:501	shapefiles	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:115	community composition	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:997	tree seedlings	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:561	streamflow	skos:broadMatch	ENVO:01000982	water flow process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:449	production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:572	survival	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:984	reference stands	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:489	seasonality	skos:relatedMatch	ENVO:03000096	season	1		The subject is a property of the object.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:936	creek bank	skos:exactMatch	ENVO:00000142	stream bank	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:26	alpine	skos:exactMatch	ENVO:01001835	alpine biome	1		The subject is a narrower term of ecosystem and the object is a subclass of ecosystem.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:530	soil temperature	skos:exactMatch	ENVO:09200012	temperature of soil	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:361	nekton	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:578	taxonomy	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:600	treeline	skos:exactMatch	ENVO:01000953	tree line ecotone	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:413	phenology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:59	bathymetry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:941	intertidal	skos:closeMatch	ENVO:00000316	intertidal zone	1		LTER "interdial" has the broader term "aquatic ecosystems" and therefore within the context of an ecosystem (comprised of living and non-living entities) whereas ENVO "intertidal zone" refers to the abiotic characteristics with no mention of living entities and thus is not an exact match to an intertidal ecosystem.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:695	oceans	skos:exactMatch	ENVO:01000048	ocean biome	1		LTER "oceans" has the broader term "aquatic ecosystems" and therefore within the context of an ecosystem (comprised of living and non-living entities). ENVO "ocean biome", while classified as a "fiat object" and not a "system", specifically not an "ecosystem", is within the parent "biome" class which can be interpreted as a type of ecosystem.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:888	dissolved organic nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:368	nitrate	skos:exactMatch	CHEBI:17632	nitrate	1		The subject and object are undefined but the context within the vocabulary trees make it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:222	gastropod	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:674	population and community properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:2	forests	skos:exactMatch	ENVO:01001243	forest ecosystem	0.9		The subject appears to be a duplicate of it's broader term, both of which refer to the same concept.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:340	microclimate	skos:broadMatch	ENVO:01001082	climate	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:562	creeks	skos:closeMatch	ENVO:00000023	stream	1		LTER "streams" has a "use for" relationship with LTER "creeks".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:540	speciation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:625	water temperature	skos:exactMatch	ENVO:09200014	temperature of water	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:147	deserts	skos:exactMatch	ENVO:01001780	desert ecosystem	1		LTER "deserts" has no definition but the context within the vocabulary tree makes it clear that alignment with ENVO "desert ecosystem" is exact.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:499	seeds	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:191	fertilization	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:67	biology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:194	burn severity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:11	acidic	skos:exactMatch	PATO:0001429	acidic	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:363	net primary production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:315	lysimeter	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:381	NDVI	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:626	watershed	skos:exactMatch	ENVO:00000292	watershed	0.9		The concept of a watershed ecosystem does not exist based on a few web searches. I'm inferring this to be a hydrologic concept, which is a fiat object with no biological entities.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:662	disturbance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:977	pyranometer	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:672	hydrological properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:158	dissolved inorganic carbon	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:14	adaptation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:174	eddy covariance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:570	SF6	skos:exactMatch	CHEBI:30496	suflur hexafluoride	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:339	microbial biomass	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:622	water level	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:975	ponds	skos:closeMatch	ENVO:00000033	pond	1		LTER "ponds" has the broader term "aquatic ecosystems" and therefore within the context of an ecosystem (comprised of living and non-living entities) whereas ENVO "pond" refers to the abiotic characteristics with no mention of living entities and thus not an exact match to a pond ecosystem.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:278	lake	skos:exactMatch	ENVO:01000252	freshwater lake biome	1		LTER "lakes" has a "use for" relationship with LTER "lake".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:444	predation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:175	electric exclusion	skos:broadMatch	OBI:0000011	planned process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:77	bulk density	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:53	bacterial production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:586	tides	skos:closeMatch	ENVO:01001342	tidal flow process	0.75	Uncertainty lies in whether this is a process or an entity	Commonly, the subject forms a close synonym with the object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:375	nitrogen cycling	skos:exactMatch	ENVO:01001330	nitrogen cycling	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:89	carbon dioxide	skos:exactMatch	CHEBI:16526	carbon dioxide	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:454	radiation	skos:exactMatch	ENVO:01001023	radiation	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:612	vegetation	skos:relatedMatch	ENVO:01000355	vegetation layer	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:230	grasses	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:951	vascular plants	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:348	mollusks	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:264	incubation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:615	virus	skos:exactMatch	NCBITaxon:10239	Viruses	1		The subject and object are undefined but the labels match and the context within the vocabulary trees makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:320	mammal	skos:exactMatch	NCBITaxon:40674	Mammalia	1		The subject and object are undefined but the context within the vocabulary trees makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:435	pollen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:884	coordinates	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:438	population dynamics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:369	HNO3	skos:exactMatch	CHEBI:48107	nitric acid	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:523	soil horizons	skos:exactMatch	ENVO:03600030	soil horizon	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:403	%C	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:202	fluorescence	skos:exactMatch	PATO:0000018	fluorescence	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:593	tracer	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:192	fertilizer	skos:exactMatch	CHEBI:33287	fertilizer	0.75	Uncertainty lies in whether the subject is referring to an grochemical material or fertilizer in some other context.	The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:113	colonization	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:114	communities	skos:exactMatch	PCO:0000029	multi-species collection of organisms	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-17	https://orcid.org/0000-0003-2261-9931
+LTER:909	cankers	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:589	topography	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:948	debris flow	skos:exactMatch	ENVO:01000698	debris flow	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:892	POC	skos:exactMatch	ENVO:04000013	particulate organic carbon	1		The subject and object are undefined but the context within the vocabulary trees make clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:673	spatial properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:490	secchi depth	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:226	germination	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:553	stage	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:972	phenolic compounds	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:193	fine root	skos:broadMatch	PO:0009005	root	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:216	freshwater	skos:exactMatch	ENVO:01001320	fresh water body	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:675	ecosystem ecology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:251	human	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:588	TDR	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:333	meterology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:28	aluminum	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:520	soil carbon	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:453	rabbits	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:331	mesic soils	skos:broadMatch	ENVO:00001998	soil	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:88	carbon cycling	skos:exactMatch	ENVO:02500010	carbon cycling	0.75		The subject context calls into question the location of this term in LTER. Why is this term not listed under biogeochemical cycling?	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:9	acid neutralizing capacity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:244	herbivory	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:110	climate change	skos:exactMatch	ENVO:01000629	climate change	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:137	decomposition	skos:exactMatch	ENVO:06105014	biodegradation	1		The subject definition specifies a biological process, which matches exactly to the object.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:551	stable isotope	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:168	droughts	skos:exactMatch	ENVO:1000745	drought	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:154	discharge	skos:broadMatch	ENVO:01000982	water flow process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:493	sediments	skos:exactMatch	ENVO:00002007	sediment	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:497	seedling establishment	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:351	moorings	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:434	playa	skos:closeMatch	ENVO:00000277	dry lake	1		LTER "playa" is an alkali flat, desert basin flat, and which periodically fills with water to form a temporary lake, which matches with ENVO "dry lake". LTER "playa" is a narrower term of LTER "ecosystem", whereas ENVO "dry lake" is a "fiat object" refering to only abiotic entities and is therefore not an exact match to a dry lake ecosystem.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:50	atmospheric pressure	skos:relatedMatch	ENVO:01001299	atmospheric zone	1		The subject is an attribute of the object	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:221	gases	skos:exactMatch	ENVO:01000797	gaseous environmental material	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:536	solar radiation	skos:exactMatch	ENVO:01001862	Solar radiation	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:141	dendrometers	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:260	hyporheic	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:464	remote sensing	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:498	seedlings	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:951	vascular plant	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:482	salt marsh	skos:exactMatch	ENVO:00000054	saline marsh	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:176	electrical conductivity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:259	hydrology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:903	belowground production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:466	reptiles	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:24	alkalinity	skos:exactMatch	PATO:0001430	alkaline	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:205	flux	skos:exactMatch	PATO:0001030	flux	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:905	gross primary production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:980	mark and recapture	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:1001	nutrient budget	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:632	wildfire	skos:exactMatch	ENVO:01000787	wildfire	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:587	timber harvest	skos:broadMatch	OBI:0000011	planned process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:86	C	skos:exactMatch	CHEBI:27594	carbon atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:409	permanent plots	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:195	fire	skos:exactMatch	ENVO:01000786	fire	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:918	diameter at breast height	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:280	land use	skos:exactMatch	ENVO:01001431	land use process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:556	storms	skos:exactMatch	ENVO:01000877	atmospheric storm	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:289	leaf area index	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:553	stage height	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:168	drought	skos:exactMatch	ENVO:1000745	drought	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:100	chloride	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:196	fishes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:422	pitfall traps	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:291	leaf litter	skos:broadMatch	ENVO:01000628	plant litter	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:994	thermokarst	skos:exactMatch	ENVO:03000085	thermokarst	1		The subject label and definition match the object definition and label exactly.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:580	termites	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:609	urban	skos:relatedMatch	ENVO:01000249	urban biome	1		The subject is a property of the object and therefore a related match.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:624	water table	skos:relatedMatch	ENVO:00000329	phreatic zone	1		The subject occurs in close spatial proximity to the object. 	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:298	life history	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:878	aspect	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:156	dispersal	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:588	time domain reflectometry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:604	trout	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:333	meteorology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:405	%N	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:27	altitude	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:882	benthos	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:587	logging	skos:broadMatch	OBI:0000011	planned process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:706	surface elevation table	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:341	mineralization	skos:broadMatch	ENVO:02500030	biogeochemical process	1		The subject does not have an exact match but does have a broad match based on the subject definition and context in the vocabulary tree.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:305	litterfall	skos:exactMatch	ENVO:01000628	plant litter	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:250	human disturbance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:693	methods	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:128	corals	skos:relatedMatch	ENVO:00000150	coral reef	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:313	long-term monitoring	skos:broadMatch	ENVO:02500041	environmental monitoring	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:415	phosphate	skos:exactMatch	CHEBI:26020	phosphate	1		The subject and object are undefined but the context within the vocabulary trees makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:701	seawater	skos:exactMatch	ENVO:00002149	sea water	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:108	clearcutting	skos:broadMatch	ENVO:02500005	land degradation	0.75		Clearcutting has both land degradation and land restoration components, with support for the latter seeming much weaker (https://en.wikipedia.org/wiki/Clearcutting).	2022-09-05	https://orcid.org/0000-0003-2261-9931
+LTER:950	photo point imagery	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:567	SO4	skos:exactMatch	CHEBI:35175	sulfate salt	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:278	lakes	skos:exactMatch	ENVO:01000252	freshwater lake biome	1		LTER "lakes" has no definition but the context within the vocabulary tree makes it clear that alignment with ENVO "freshwater lake biome" is exact.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:537	SRP	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:637	wood	skos:exactMatch	ENVO:00002040	wood	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:433	plants	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:614	vertebrates	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:802	plankton	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:190	fern	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:304	litter bags	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:218	fungi	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:467	respiration	skos:exactMatch	GO:0009060	cellular respiration	1		The subject definition specifies aerobic respiration.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:300	lightning	skos:exactMatch	ENVO:01000898	atmospheric lightning	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:310	logs	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:324	map	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:358	mycorrhizae	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:97	cesium	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:91	carbon monoxide	skos:exactMatch	CHEBI:17245	carbon monoxide	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:302	litter	skos:exactMatch	ENVO:01000628	plant litter	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:938	tree islands	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:965	microtopography	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:582	thaw depth	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:103	chlorophyll a	skos:exactMatch	CHEBI:18230	chlorophyll a	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:899	boundary	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:147	desert	skos:exactMatch	ENVO:01001780	desert ecosystem	1		LTER "deserts" has a "use for" relationship with LTER "desert".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:710	biological events	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:287	lead	skos:exactMatch	CHEBI:25016	lead atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:627	weather	skos:exactMatch	ENVO:01001078	weather	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:311	long-term	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:335	microarthropods	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:54	bark	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:670	temporal properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:904	fine root production	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:273	iron	skos:exactMatch	CHEBI:18248	iron atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:481	salinity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:1001	nutrient budgets	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:9	ANC	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:173	biomes	skos:exactMatch	ENVO:00000428	biome	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:527	soil organic matter	skos:exactMatch	ENVO:04000008	soil organic matter	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:426	plant cover	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:228	GPS	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:977	pyranometers	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:125	consumers	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:885	latitude	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:51	bacteria	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:41	aquatic ecosystems	skos:exactMatch	ENVO:01001787	aquatic ecosystem	1		LTER "aquatic ecosystems" has no definition but the context within the vocabulary tree makes it clear that alignment with ENVO "aquatic ecosystem" is exact.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:208	food web	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:984	reference stand	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:184	evaporation	skos:exactMatch	ENVO:02500034	evaporation	1		The subject definition matches the object definition exactly.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:424	plant community	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:322	mangrove	skos:exactMatch	ENVO:01000181	mangrove biome	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:518	Na	skos:exactMatch	CHEBI:26708	sodium atom	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:204	F	skos:exactMatch	CHEBI:36892	elemental fluorine	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:953	light detection and ranging	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:120	competition	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:405	percent nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:380	N2O	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:122	conductance	skos:exactMatch	PATO:0001585	conductivity	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:251	humans	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:124	conservation	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:528	soil respiration	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:93	cations	skos:exactMatch	CHEBI:36916	cation	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:901	bud burst	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:458	recruitment	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:157	dispersion	skos:broadMatch	ENVO:03000010	material transport process	1		Based on the subject vocabulary tree, the subject maps to the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:317	macrofauna	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:315	lysimeters	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:591	TOC	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:584	thinning	skos:broadMatch	ENVO:01001247	agronomic process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:92	c:n ratio	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:33	animals	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:909	canker	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:299	light	skos:broadMatch	ENVO:01001023	radiation	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:326	marshes	skos:exactMatch	ENVO:00000035	marsh	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:376	nitrogen deposition	skos:broadMatch	ENVO:03000054	depositional process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:463	relative humidity	skos:broadMatch	PATO:0015009	humidity	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:30	ammonia	skos:exactMatch	CHEBI:16134	ammonia	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:284	landscape change	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:117	community patterns	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-17	https://orcid.org/0000-0003-2261-9931
+LTER:590	total nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:255	hurricane damage	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:431	plant species	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:658	biogeochemical processes	skos:exactMatch	ENVO:02500030	biogeochemical process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:493	sediment	skos:exactMatch	ENVO:00002007	sediment	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:447	primary production	skos:relatedMatch	GO:0015979	photosynthesis	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:233	grazing	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:89	CO2	skos:exactMatch	CHEBI:16526	carbon dioxide	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:304	litterbag	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:799	organizational units	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:38	antimony	skos:exactMatch	CHEBI:30513	antimony atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:280	landuse	skos:exactMatch	ENVO:01001431	land use process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:293	leaves	skos:exactMatch	PO:0025034	leaf	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:36	ANPP	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:254	hurricane	skos:broadMatch	ENVO:01001297	cyclone	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:383	nutrient cycling	skos:broadMatch	ENVO:02500030	biogeochemical process	1		The subject does not have an exact match but does have a broad match based on the subject definition and context in the vocabulary tree.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:10	acid rain	skos:exactMatch	ENVO:03000127	Acid rainfall	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:502	shrews	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:104	chromium	skos:exactMatch	CHEBI:28073	chromium atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:323	mapping	skos:broadMatch	OBI:0000011	planned process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:916	density	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:655	processes	skos:exactMatch	BFO:0000015	process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:566	successional dynamics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:558	stream discharge	skos:broadMatch	ENVO:01000982	water flow process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:334	methane	skos:exactMatch	CHEBI:16183	methane	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:466	reptile	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:890	ocean color	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:635	wind speed	skos:exactMatch	ENVO:01001362	atmospheric wind speed	1		The subject definition matches the object definition exactly.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:349	monitoring	skos:exactMatch	ENVO:02500041	environmental monitoring	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:619	water chemistry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:907	genomics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:598	tree mortality	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:468	respiration rates	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:198	floods	skos:exactMatch	ENVO:01000710	flood	1		The subject definition matches the object definition exactly.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:257	hydrogen ion	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:90	carbon fluxes	skos:broadMatch	PATO:0001030	flux	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:388	old growth	skos:exactMatch	ENVO:01000768	primary forest	1		The subject is a synonym of a defined term.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:621	water content	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:224	geographic information systems	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:18	air	skos:exactMatch	ENVO:00002005	air	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:883	net ecosystem exchange	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:338	microbial activity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:667	measurements	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:364	net primary productivity	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:245	herbs	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:522	soil disturbance	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:74	browsing	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:378	nitrogen mineralization	skos:broadMatch	ENVO:01001330	nitrogen cycling	1		The subject does not have an exact match but does have a broad match based on the subject definition and context in the vocabulary tree.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:607	understory vegetation	skos:exactMatch	ENVO:01000335	understory	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:334	CH4	skos:exactMatch	CHEBI:16183	methane	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:82	canopies	skos:exactMatch	ENVO:01001239	forest canopy	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:593	tracers	skos:exactMatch	CHEBI:35204	tracer	0.5	Uncertainty in match.	The subject and object are undefined but the context within the vocabulary trees suggest that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:702	brackish water	skos:exactMatch	ENVO:00002019	brackish water	1		LTER "brackish water" has no definition but the context within the vocabulary tree makes it clear that alignment with ENVO "brackish water" is exact.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:232	grasslands	skos:exactMatch	ENVO:01001206	grassland ecosystem	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:936	creek banks	skos:exactMatch	ENVO:00000142	stream bank	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:999	total dissolved nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:432	plant species composition	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:92	c:n	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:924	ecosystem respiration	skos:exactMatch	ENVO:02500008	ecosystem-wide respiration	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:243	herbivore	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:126	copper	skos:exactMatch	CHEBI:28694	copper atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:594	transect	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:7	accretion	skos:broadMatch	ENVO:03000009	material accumulation process	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:336	microbes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:402	peatland	skos:exactMatch	ENVO:00000044	peatland	1		The subject definition matches the object definition exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:140	dendrochronology	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:476	root decomposition	skos:broadMatch	ENVO:06105014	biodegradation	1		An exact match for the subject cannot be found. However, the subject has a broader term that does have a match.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:502	shrew	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:182	estuarine	skos:exactMatch	ENVO:00000045	estuary	1		LTER "estuaries" has a "use for" relationship with LTER "estuarine".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:514	snow accumulation	skos:exactMatch	ENVO:01001617	snow accumulation process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:651	disciplines	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:208	food webs	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:71	B	skos:exactMatch	CHEBI:27560	boron atom	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:503	shrub	skos:relatedMatch	ENVO:01000336	shrub layer	1		The subject and object do not exhibit a close or exact match, and are not hierarchically related, but are related.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:58	basin	skos:exactMatch	ENVO:03000015	geographic basin	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:371	nitrite	skos:exactMatch	CHEBI:16301	nitrite	1		The subject definition matches the object definition exactly.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:560	stream order	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:243	herbivores	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:930	foliar nitrogen	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:179	endangered species	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:691	water properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:2	forest	skos:exactMatch	ENVO:01001243	forest ecosystem	0.9		The subject appears to be a duplicate of it's broader term, both of which refer to the same concept.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:141	dendrometer	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:31	nh4	skos:exactMatch	CHEBI:28938	ammonium	1		The object is undefined but the context within the vocabulary tree makes it clear that the alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:611	vapor pressure	skos:broadMatch	PATO:0001025	pressure	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:463	RH	skos:broadMatch	PATO:0015009	humidity	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:665	biological substances	skos:broadMatch	ENVO:01000155	organic material	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:973	plant functional types	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:668	physical properties	skos:exactMatch	PATO:0001018	physical quality	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:155	disease	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:968	morphometry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:511	small mammal	skos:broadMatch	NCBITaxon:40674	Mammalia	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:469	restoration	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:532	soil warming	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:898	barrier islands	skos:closeMatch	ENVO:1000751	barrier island	1		LTER "barrier islands" has the broader term "terrestrial ecosystems" and therefore within the context of an ecosystem (comprised of living and non-living entities) whereas ENVO "barrier island" is a "layer" refering to a non-system entity and is therefor not an exact match to a barrier island ecosystem.	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:366	neutron probe	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:75	bryophytes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:666	elements and compounds	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:220	gas flux	skos:exactMatch	ENVO:03000092	gas emission process	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:583	thickness	skos:exactMatch	PATO:0000915	thickness	1		The subject is undefined but the context within the vocabulary tree makes it clear that the object alignment is exact.	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:500	seston	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:381	normalized vegetation index	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:996	tree age	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:485	sapwood area	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:358	mycorrhiza	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:623	water quality	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:415	PO4	skos:exactMatch	CHEBI:26020	phosphate	1		The subject and object are undefined but the context within the vocabulary trees makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:960	reef	skos:broadMatch	ENVO:00000012	hydrographic feature	1		LTER "reefs" has a "use for" relationship with LTER "reef".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:249	holocene	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:962	ocean acidification	skos:exactMatch	ENVO:01000631	ocean acidification	1		The subject definition matches the object definition exactly.	2022-09-08	https://orcid.org/0000-0003-2261-9931
+LTER:898	barrier island	skos:closeMatch	ENVO:1000751	barrier island	1		LTER "barrier islands" has a "use for" relationship with LTER "barrier island".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:695	ocean	skos:exactMatch	ENVO:01000048	ocean biome	1		LTER "oceans" has a "use for" relationship with LTER "ocean".	2022-09-06	https://orcid.org/0000-0003-2261-9931
+LTER:385	ocean biogeochemistry	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:408	permafrost	skos:exactMatch	ENVO:00000134	permafrost	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:200	flowers	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:803	snow water equivalence	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:46	ascomycetes	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:388	old-growth forests	skos:exactMatch	ENVO:01000768	primary forest	1		The subject is a synonym of a defined term.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:354	mosses	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:504	silica	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:946	landslide	skos:exactMatch	ENVO:00000520	landslide	0.75	Uncertainty lies in whether the subject is a process for a feature	The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:384	nutrients	skos:broadMatch	CHEBI:33284	nutrient	1		An exact match for the subject cannot be found. However, from the subjects context in the vocabulary tree, the subject matches the broader object.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:101	Cl	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:398	ozone	skos:exactMatch	CHEBI:25812	ozone	1		The object is undefined but the context within the vocabulary tree makes it clear that alignment is exact.	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:105	chronosequence	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:146	desertification	skos:exactMatch	ENVO:02500001	desertification	1		The subject definition matches the object definition exactly.	2022-09-09	https://orcid.org/0000-0003-2261-9931
+LTER:403	percent carbon	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:671	chemical properties	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:506	silviculture	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:32	amphibians	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:289	LAI	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-09-10	https://orcid.org/0000-0003-2261-9931
+LTER:332	metabolism	skos:exactMatch	GO:0044237	cellular metabolic process	1		The subject definition matches the object classification exactly.	2022-09-07	https://orcid.org/0000-0003-2261-9931
+LTER:421	phytoplankton	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:524	soil microarthropods	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:603	trophic structure	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:931	forest dynamics	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:69	bird	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:236	growth	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:428	plant growth	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
+LTER:597	tree growth	skos:exactMatch	sssom:NoMapping		1		No match can be found for this subject	2022-10-22	https://orcid.org/0000-0003-2261-9931
